@@ -52,4 +52,5 @@ To run this project locally, you will need the following installed on your machi
     *   Click **Refresh** to load the latest ETL processed data into the visuals.
 
 ## 👥 Authors
-*   **Group 16** - Data Engineering Final Project
+*   Marcellino Wilson Rusli
+*   Jason Alexander Wijaya
